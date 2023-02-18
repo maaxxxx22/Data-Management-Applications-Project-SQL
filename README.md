@@ -1,4 +1,4 @@
-INTRODUCTION
+### INTRODUCTION
 For this assessment, you will be creating an entity-relationship (ER) model, databases, tables, and queries for two fictional small businesses. To complete this assessment, you will use SQL to test and run a database application that you will develop. After running the code, you will take a screenshot of your results and paste the screenshot into a document that you will submit.
 
 The work you complete for each part of the assessment (i.e., the design models and diagrams, tables, written explanations, SQL script code, and screenshot results from running your SQL scripts in a SQL tool) should be saved as a single PDF file that you will submit.
@@ -17,7 +17,7 @@ Tasks may not be submitted as cloud links, such as links to Google Docs, Google 
 
  
 
-A.  Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
+### A.  Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
 
  
 
@@ -63,7 +63,7 @@ b.  Assign one of the following five data types to each attribute in your 3NF ta
 
  
 
-B.  Create a database using the attached "Jaunty Coffee Co. ERD" by doing the following:
+###  B.  Create a database using the attached "Jaunty Coffee Co. ERD" by doing the following:
 
 1.  Develop SQL code to create each table as specified in the attached “Jaunty Coffee Co. ERD” by doing the following:
 
